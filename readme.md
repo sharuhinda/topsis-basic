@@ -14,3 +14,4 @@ They are simple and often used to make decisions in situations where multiple at
 Main underlying concept of both of these methods is that the best real option has to be the closest to positive ideal option and the farthest from negative ideal option. By "ideal" these methods mean options which incorporate all the best (or worst) options of attributes.
   
 You can read more about [Modified] TOPSIS [here](https://www.sciencedirect.com/science/article/pii/S277266222100014X#:~:text=2.2.-,The%20TOPSIS%20method,distances%20from%20the%20ideal%20solutions.)
+Another source: https://www.mdpi.com/2227-7390/7/10/915
